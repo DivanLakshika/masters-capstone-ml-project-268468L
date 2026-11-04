@@ -36,3 +36,6 @@ results/figures/
 # Temporary files
 *.log
 *.tmp
+
+# Original FabricNET dataset
+data/raw/
