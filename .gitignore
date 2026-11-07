@@ -30,8 +30,8 @@ desktop.ini
 
 # Experiment outputs
 results/explanations/
-results/metrics/
-results/figures/
+# results/metrics/
+# results/figures/
 
 # Temporary files
 *.log
