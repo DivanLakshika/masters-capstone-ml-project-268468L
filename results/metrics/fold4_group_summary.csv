@@ -1,0 +1,7 @@
+group_id,actual_class,total_images,correct_predictions,accuracy
+2,plain,5,4,0.8
+9,twill,5,5,1.0
+13,plain,5,5,1.0
+18,twill,2,2,1.0
+21,satin,4,4,1.0
+23,satin,5,5,1.0

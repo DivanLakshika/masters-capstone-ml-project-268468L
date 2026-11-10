@@ -1,0 +1,27 @@
+image_filename,Texture,group_id,test_fold,Image id,Specific Mass,Warp,Weft,image_path,image_exists,actual_class,predicted_class,confidence,correct
+W032.jpg,twill,9,4,32,135,44,35,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W032.jpg,True,twill,twill,0.5962042212486267,True
+W033.jpg,twill,9,4,33,135,44,35,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W033.jpg,True,twill,twill,0.8130685687065125,True
+W034.jpg,twill,9,4,34,135,44,35,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W034.jpg,True,twill,twill,0.7577771544456482,True
+W035.jpg,twill,9,4,35,135,44,35,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W035.jpg,True,twill,twill,0.9226865768432617,True
+W036.jpg,twill,9,4,36,135,44,35,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W036.jpg,True,twill,twill,0.854246973991394,True
+W062.jpg,plain,13,4,62,150,26,18,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W062.jpg,True,plain,plain,0.9784796833992004,True
+W063.jpg,plain,13,4,63,150,26,18,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W063.jpg,True,plain,plain,0.9694653153419495,True
+W064.jpg,plain,13,4,64,150,26,18,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W064.jpg,True,plain,plain,0.9808531403541565,True
+W065.jpg,plain,13,4,65,150,26,18,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W065.jpg,True,plain,plain,0.9063720107078552,True
+W066.jpg,plain,13,4,66,150,26,18,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W066.jpg,True,plain,plain,0.9172416925430298,True
+W077.jpg,plain,2,4,77,100,24,48,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W077.jpg,True,plain,plain,0.7453435063362122,True
+W078.jpg,plain,2,4,78,100,24,48,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W078.jpg,True,plain,plain,0.8265186548233032,True
+W079.jpg,plain,2,4,79,100,24,48,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W079.jpg,True,plain,satin,0.5438618063926697,False
+W080.jpg,plain,2,4,80,100,24,48,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W080.jpg,True,plain,plain,0.7090286612510681,True
+W081.jpg,plain,2,4,81,100,24,48,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W081.jpg,True,plain,plain,0.8627023696899414,True
+W108.jpg,satin,23,4,108,185,50,93,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W108.jpg,True,satin,satin,0.9962284564971924,True
+W109.jpg,satin,23,4,109,185,50,93,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W109.jpg,True,satin,satin,0.9664652347564697,True
+W110.jpg,satin,23,4,110,185,50,93,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W110.jpg,True,satin,satin,0.9904271364212036,True
+W111.jpg,satin,23,4,111,185,50,93,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W111.jpg,True,satin,satin,0.9914683103561401,True
+W112.jpg,satin,23,4,112,185,50,93,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W112.jpg,True,satin,satin,0.9928207993507385,True
+W125.jpg,twill,18,4,125,165,38,25,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W125.jpg,True,twill,twill,0.9836488962173462,True
+W126.jpg,twill,18,4,126,165,38,25,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W126.jpg,True,twill,twill,0.9099917411804199,True
+W127.jpg,satin,21,4,127,180,25,53,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W127.jpg,True,satin,satin,0.9981259703636169,True
+W128.jpg,satin,21,4,128,180,25,53,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W128.jpg,True,satin,satin,0.9903761744499207,True
+W129.jpg,satin,21,4,129,180,25,53,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W129.jpg,True,satin,satin,0.994963526725769,True
+W130.jpg,satin,21,4,130,180,25,53,d:\MyFiles\Work File\Master's\Sem3\Project\FabricNet-XAI\masters-capstone-ml-project-268468L\data\raw\images\W130.jpg,True,satin,satin,0.9961316585540771,True
