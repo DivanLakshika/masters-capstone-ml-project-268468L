@@ -1,0 +1,7 @@
+image_filename,actual_class,predicted_class,case_type,gradcam_observation,ig_observation,structure_alignment,potential_suspicious_cue
+W023.jpg,plain,plain,Correct,Strong activation in lower central region,Distributed responses around yarn intersections,Requires domain review,Localized lower-region activation requires inspection
+W056.jpg,plain,satin,Incorrect,Localized vertical activation near right side,Diffuse responses across fabric texture,Requires domain review,Concentrated vertical response
+W068.jpg,satin,satin,Correct,Strong activation in vertical regions,Subtle distributed responses,Requires domain review,Different spatial patterns between methods
+W090.jpg,satin,plain,Incorrect,Concentrated central activation,Distributed responses across weave texture,Requires domain review,Localized central response
+W037.jpg,twill,twill,Correct,Strong central and lower-region activation,Responses along repeated diagonal texture,Potential alignment with visible diagonal texture,Grad-CAM concentration requires inspection
+W123.jpg,twill,satin,Incorrect,Strong bottom-right localized activation,Distributed responses along diagonal texture,Requires domain review,Localized Grad-CAM response despite incorrect prediction
