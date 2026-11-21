@@ -1,0 +1,5 @@
+image_filename,model_fold,condition,gradcam_spearman,gradcam_p_value,ig_spearman,ig_p_value
+W006.jpg,1,rotation,0.8735647110343945,0.0,0.43963295711085754,0.0
+W006.jpg,1,brightness_down,0.996288881176356,0.0,0.8943134103129263,0.0
+W006.jpg,1,brightness_up,0.9314412661368232,0.0,0.6566640167963959,0.0
+W006.jpg,1,gaussian_noise,0.9914781927765439,0.0,0.5875669233900511,0.0

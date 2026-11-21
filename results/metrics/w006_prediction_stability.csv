@@ -1,0 +1,6 @@
+image_filename,condition,model_fold,original_prediction,perturbed_prediction,confidence,prediction_changed
+W006.jpg,original,1,twill,twill,0.9705655574798584,False
+W006.jpg,rotation,1,twill,twill,0.9829496145248413,False
+W006.jpg,brightness_down,1,twill,twill,0.9812586903572083,False
+W006.jpg,brightness_up,1,twill,twill,0.9525662660598755,False
+W006.jpg,gaussian_noise,1,twill,twill,0.9494339823722839,False
